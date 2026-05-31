@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorperify",
+        "uuid": 10798744,
+        "checksum": "os220j"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
